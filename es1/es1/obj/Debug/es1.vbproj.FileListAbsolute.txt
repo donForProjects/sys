@@ -1,0 +1,17 @@
+D:\vb net\Projects\es1\es1\bin\Debug\es1.exe.config
+D:\vb net\Projects\es1\es1\bin\Debug\es1.exe
+D:\vb net\Projects\es1\es1\bin\Debug\es1.pdb
+D:\vb net\Projects\es1\es1\bin\Debug\es1.xml
+D:\vb net\Projects\es1\es1\obj\Debug\es1.vbproj.AssemblyReference.cache
+D:\vb net\Projects\es1\es1\obj\Debug\es1.Form1.resources
+D:\vb net\Projects\es1\es1\obj\Debug\es1.Form3.resources
+D:\vb net\Projects\es1\es1\obj\Debug\es1.weed_info.resources
+D:\vb net\Projects\es1\es1\obj\Debug\es1.Resources.resources
+D:\vb net\Projects\es1\es1\obj\Debug\es1.vbproj.GenerateResource.cache
+D:\vb net\Projects\es1\es1\obj\Debug\es1.vbproj.CoreCompileInputs.cache
+D:\vb net\Projects\es1\es1\obj\Debug\es1.exe
+D:\vb net\Projects\es1\es1\obj\Debug\es1.xml
+D:\vb net\Projects\es1\es1\obj\Debug\es1.pdb
+D:\vb net\Projects\es1\es1\obj\Debug\es1.Form4.resources
+D:\vb net\Projects\es1\es1\obj\Debug\es1.Form2.resources
+D:\vb net\Projects\es1\es1\obj\Debug\es1.Form6.resources
